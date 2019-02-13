@@ -12,5 +12,7 @@ public class App
 
     System.out.println( "Let the GIT Fun begin!!!" );
 
+        System.out.println( "This is the slave" );
+
     }
 }
