@@ -6,8 +6,11 @@ package com.xyz;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] args ){
 
     System.out.println( "Hello Maven World!" );
+
+    System.out.println( "Let the GIT Fun begin!!!" );
+
     }
 }
