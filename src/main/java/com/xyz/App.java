@@ -13,6 +13,7 @@ public class App
     System.out.println( "Let the GIT Fun begin!!!" );
 
         System.out.println( "Playground Commit" );
+        System.out.println("Dimitri Added");
 
     }
 }
